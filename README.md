@@ -6,7 +6,7 @@ PC AND MOBILE PRINTS:
 <img src="https://github.com/tvm-dev/dashboard-react-ts-tailwind-responsive/blob/Main/public/prints/print-PC.png">
 
 <h1> Mobile Dark theme </h1>
-<img src="https://github.com/tvm-dev/dashboard-react-ts-tailwind-responsive/blob/Main/public/prints/print-PC.png">
+<img src="https://github.com/tvm-dev/dashboard-react-ts-tailwind-responsive/blob/Main/public/prints/print-mobile.jpg">
 
 
 </center>
